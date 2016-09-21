@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1099088194133",
+    "firebase_url": "https://fir-app-826f8.firebaseio.com",
+    "project_id": "fir-app-826f8",
+    "storage_bucket": "fir-app-826f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099088194133:android:876fdb2ca6889f86",
+        "android_client_info": {
+          "package_name": "com.telstock.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099088194133-nurnj9s6v3lc1kl446rukf9se0h4rvcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.telstock.firebaseapp",
+            "certificate_hash": "AD68A9A655C942C8520A143009E56393EEDC2A45"
+          }
+        },
+        {
+          "client_id": "1099088194133-vf5vcmkt6ee54nk90qq81i39vjcgd84n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwktZ8shrE05zxRgYkuGNVXkxoKro3rgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099088194133-vf5vcmkt6ee54nk90qq81i39vjcgd84n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099088194133:android:d7ba0112a372ad7e",
+        "android_client_info": {
+          "package_name": "com.example.idiseno.advancedui5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099088194133-nueooo9npa9vaho66jpi6jksa4pq4c43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idiseno.advancedui5",
+            "certificate_hash": "AD68A9A655C942C8520A143009E56393EEDC2A45"
+          }
+        },
+        {
+          "client_id": "1099088194133-vf5vcmkt6ee54nk90qq81i39vjcgd84n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwktZ8shrE05zxRgYkuGNVXkxoKro3rgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099088194133-vf5vcmkt6ee54nk90qq81i39vjcgd84n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099088194133:android:09d34fa98bdeb316",
+        "android_client_info": {
+          "package_name": "com.telstock.tmanager.proyectocursoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099088194133-vf5vcmkt6ee54nk90qq81i39vjcgd84n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwktZ8shrE05zxRgYkuGNVXkxoKro3rgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProyectoCursoAndroid</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="no_connection_error">Verifique su conexión.</string>
+    <string name="time_out_error">Se agotó el tiempo de espera.</string>
+
+    <string name="buscar_musica">Busca tu música</string>
+    <string name="canciones_favoritas">Canciones Favoritas</string>
+    <string name="artistas_favoritos">Artistas Favoritos</string>
+    <string name="albumes_favoritos">Álbumes Favoritos</string>
+
+    <string name="autor">Michel Torres</string>
+    <string name="correo">mtorres.alon@gmail.com</string>
+
+</resources>
